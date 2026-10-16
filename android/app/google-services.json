@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "418755986453",
+    "project_id": "edumentor-ai-4a3cf",
+    "storage_bucket": "edumentor-ai-4a3cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418755986453:android:0fe807396ebd089bbf3a1c",
+        "android_client_info": {
+          "package_name": "com.example.edumentor_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrzT31-ZsBjgDN03-ZKWfudISwUKcRiDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
