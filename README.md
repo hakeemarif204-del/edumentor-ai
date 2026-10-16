@@ -1,6 +1,3 @@
-# Kani waa file cusub
-
-
 # edumentor_ai
 
 A new Flutter project.
